@@ -1,5 +1,5 @@
 package day52;
-// uran uran uran
+// by my self
 public class Car {
 	public String model;
 	public String color;
