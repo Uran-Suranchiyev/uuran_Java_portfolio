@@ -19,5 +19,8 @@ public class BuiltInLambdaExample {
 //		});
 		list.removeIf(e -> e % 2 == 0);
 		System.out.println(list);
+		
+		System.out.println("Uran change code");
+		
 	}
 }
