@@ -3,6 +3,7 @@ package day52;
 import java.util.List;
 //uran
 public class TestDrive {
+	/////////////
 	public static void testDrive(List<Car> cars, CarTester carTester) {
 		for (Car car : cars) {
 			if (carTester.test(car)) {
