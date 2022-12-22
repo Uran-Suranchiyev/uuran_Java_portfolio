@@ -1,5 +1,5 @@
 package day52;
-//uran uran uran uran uran uran
+//changee
 @FunctionalInterface
 public interface CarDetails {
 	public abstract String getDetails(Car car);
