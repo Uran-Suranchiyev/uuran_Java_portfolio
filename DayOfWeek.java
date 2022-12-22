@@ -1,5 +1,5 @@
 package day19;
-
+// uran ururan uran 
 public class DayOfWeek {
 	
 	public static void main(String[] args) {
